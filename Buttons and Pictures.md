@@ -1,8 +1,8 @@
-#Buttons and Pictures
+# Buttons and Pictures
 
 ---
 
-##To add a Button:
+## To add a Button:
 ```
 <button>
 	Click Me
