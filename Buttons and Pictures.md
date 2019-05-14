@@ -1,7 +1,5 @@
 # Buttons and Pictures
 
----
-
 ## To add a Button:
 ```
 <button>
